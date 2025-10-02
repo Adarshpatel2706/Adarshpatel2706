@@ -13,7 +13,7 @@ An IT Professional with 3 years of experience in building enterprise-grade web a
 - 📫 How to reach me:  
   - 📧 Email: [adarshpatel2701@gmail.com](mailto:adarshpatel2701@gmail.com)  
   - 🔗 GitHub: [Adarshpatel2706](https://github.com/Adarshpatel2706)  
-  - 💼 LinkedIn: [Adarsh Patel](#)  
+  - 💼 LinkedIn: [Adarsh Patel](https://www.linkedin.com/in/adarsh-patel-88a8a31b3/)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love debugging complex issues more than writing fresh code 🚀  
 
